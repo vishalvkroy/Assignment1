@@ -1,0 +1,275 @@
+*{
+    margin: 0;
+    padding: 0
+
+}
+body{
+    background-color: #eceff8;
+}
+
+.main {
+    background-color:#eceff8;
+}
+.main {
+    background-color: #eceff8;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    margin-right: 150px;
+    margin-left: 150px;
+
+    height: 600px;
+
+}
+
+.materials {
+    height: 120px;
+    width: 900px;
+    background-color: #ffffff;
+    margin-right: 50px;
+    margin-left: 85px;
+    margin-top: 30px;
+    position: absolute;
+    display: flex;
+    border-radius: 15px;
+}
+
+.box {
+    width: 90px;
+    height: 90px;
+    background-color: #eceff8;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    
+}
+
+.c1{
+    margin-left: 150px;
+    position: inherit;
+    padding-top: 30px;
+}
+.para1{
+    margin-left: 50px;
+     position: relative;
+     padding-top: 65px;
+}
+.day1{
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+
+.btn1{
+    height: 50px;
+    width: 150px;
+    margin-top: 35px;
+    margin-left: 150px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border: none;
+    background-color: #ffffff;
+}
+
+.btn1 a{
+    text-decoration: none;
+    color: black
+    
+}
+.btn1:hover {
+    background-color: black;
+}
+.btn1 a:hover {
+    color: white;
+}
+
+
+
+
+
+.material2{
+    background-color: aquamarine;
+    margin-top: 160px;
+    height: 120px;
+    width: 900px;
+    background-color: #ffffff;
+    margin-right: 50px;
+    margin-left: 85px;
+    position: absolute;
+    display: flex;
+    border-radius: 15px;
+}
+
+.box2{
+    width: 90px;
+    height: 90px;
+    background-color: rgba(248,236,246,255);
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    position: absolute;
+}
+.c2{
+    margin-left: 150px;
+    position: inherit;
+    padding-top: 20px;
+}
+.para2{
+    margin-left: 150px;
+     position: relative;
+     padding-top: 50px;
+     padding-bottom: 10px;
+}
+.day2{
+    padding-bottom: 0px;
+    position: relative;
+    padding-top: 20px;
+}
+.btn2{
+    height: 50px;
+    width: 150px;
+    margin-top: 35px;
+    margin-left: 212px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border: none;
+    background-color:#ffffff;
+}
+.btn2 a{
+    text-decoration: none;
+    color: black
+    
+}
+.btn2:hover {
+    background-color: black;
+}
+.btn2 a:hover {
+    color: white;
+}
+
+
+.material3{
+    margin-top: 290px;
+    background-color: aquamarine;
+    height: 120px;
+    width: 900px;
+    background-color: #ffffff;
+    margin-right: 50px;
+    margin-left: 85px;
+    position: absolute;
+    display: flex;
+    border-radius: 15px;
+}
+
+.box3{
+    width: 90px;
+    height: 90px;
+    background-color: #f6edeb;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.c3{
+    margin-left: 150px;
+    position: inherit;
+    padding-top: 20px;
+}
+.para3{
+    margin-left: 150px;
+     position: relative;
+     padding-top: 50px;
+     padding-bottom: 10px;
+}
+.day3{
+    padding-bottom: 0px;
+    position: relative;
+    padding-top: 20px;
+}
+
+.btn3{
+    height: 50px;
+    width: 150px;
+    margin-top: 35px;
+    margin-left: 158px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border: none;
+    background-color: #ffffff;
+}
+.btn3 a{
+    text-decoration: none;
+    color: black
+    
+}
+.btn3:hover {
+    background-color: black;
+}
+.btn3 a:hover {
+    color: white;
+}
+
+
+.material4{
+    margin-top: 420px;
+    height: 120px;
+    width: 900px;
+    background-color: #ffffff;
+    margin-right: 50px;
+    margin-left: 85px;
+    position: absolute;
+    display: flex;
+    border-radius: 15px;
+}
+.box4{
+    width: 90px;
+    height: 90px;
+    background-color:  #eef8ea;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.c4{
+    margin-left: 150px;
+    position: inherit;
+    padding-top: 20px;
+}
+.para4{
+    margin-left: 150px;
+     position: relative;
+     padding-top: 50px;
+     padding-bottom: 10px;
+}
+.day4{
+    padding-bottom: 0px;
+    position: relative;
+    padding-top: 20px;
+}
+
+.btn4{
+    height: 50px;
+    width: 150px;
+    margin-top: 35px;
+    margin-left: 150px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    border: none;
+    background-color: #ffffff;
+}
+
+.btn4 a{
+    text-decoration: none;
+    color: black
+    
+}
+.btn4:hover {
+    background-color: black;
+}
+.btn4 a:hover {
+    color: white;
+}
